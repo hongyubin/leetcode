@@ -6,4 +6,5 @@ package com.hyb.leetcode;
  * @Date Created  in 11:02 2020/6/15
  */
 public class longestCommonPrefix14 {
+
 }
